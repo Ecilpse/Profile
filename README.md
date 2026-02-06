@@ -6,11 +6,7 @@
    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></a>
 <br><br><br>
-🤖 IDE 🤖<br><br>
-<img src="https://img.shields.io/badge/IntelliJ-B729D4?style=flat&logo=IntelliJ IDEA&logoColor=white"/></a>
-<br><br>
-🐋 Community 🐋<br><br>
-<a href="https://discord.gg/vma7N24V"><img src="https://img.shields.io/badge/Discord-6877F6?style=flat&logo=discord&logoColor=white"/></a>
+<a href="https://discord.gg/vma7N24V](https://discord.gg/jqcVuE98wT"><img src="https://img.shields.io/badge/Discord-6877F6?style=flat&logo=discord&logoColor=white"/></a>
 <a href="https://cafe.naver.com/nicoservernote2"><img src="https://img.shields.io/badge/Cafe-1DB12E?style=flat-square&logo=CoffeeScript&logoColor=white"/></a>
 <!--<br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=_EclipseMC_&layout=compact"><br><br>
 <br><img src="https://github-readme-stats.vercel.app/api?username=_EclipseMC_&show_icons=true">--!>
