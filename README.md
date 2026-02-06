@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00B2FF&height=200&section=header&text=EclipseMC&fontSize=90" /> <br>
-✨ Language ✨<br><br>
+   
 <img src="https://img.shields.io/badge/Java-D48348?style=flat&logo=CoffeeScript&logoColor=white"/>
    <img src="https://img.shields.io/badge/Kotlin-CF21B6?style=flat&logo=Kotlin&logoColor=white"/>
    <img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/>
